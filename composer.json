@@ -106,6 +106,9 @@
             },
             "openeuropa/oe_multilingual": {
                 "latest-master": "https://github.com/openeuropa/oe_multilingual/compare/1.5.0..master.diff"
+            },
+            "drupal/description_list_field": {
+                "latest": "https://github.com/openeuropa/description_list_field/compare/1.0.x..EWPP-768.diff"
             }
         },
         "drupal-scaffold": {
